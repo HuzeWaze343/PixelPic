@@ -1,5 +1,5 @@
 # PixelPic
-A simple nonogram puzzle game made in Unity
+A simple nonogram puzzle game made in Unity.
 This game was made as my end of year programming project for Level 6 Software Development
 
 The numbers in each row/column indicate how many tiles need to be filled in each row
