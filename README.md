@@ -13,3 +13,5 @@ The toggle button at the bottom of each screen toggles flags. When the switch is
 When the player fills the required amount of tiles the puzzle will try to validate by checking if the players solution matches the intended solution.
 
 This game is intended for mobile devices in portrait mode (ex - 1080x2400 resolution). Many UI Elements will break if you attempt to run the game in wider resolutions or landscape mode.
+
+A brief gameplay demo and explanation of a snippet of code: https://www.youtube.com/watch?v=XsD35I6ld6w
