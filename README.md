@@ -1,5 +1,6 @@
 # PixelPic
 A simple nonogram puzzle game made in Unity
+This game was made as my end of year programming project for Level 6 Software Development
 
 The numbers in each row/column indicate how many tiles need to be filled in each row
   ex - a row marker that says "5" means the correct solution has: 5 connected tiles somewhere in the row
